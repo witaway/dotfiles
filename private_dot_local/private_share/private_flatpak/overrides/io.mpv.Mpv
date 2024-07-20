@@ -1,0 +1,7 @@
+[Context]
+devices=dri
+filesystems=~/.var/app/net.ankiweb.Anki;host
+
+[Environment]
+PATH=/home/witaway/.local/bin:/home/witaway/bin:/app/bin:/usr/bin:/run/host/usr/bin
+PYTHONPATH=/usr/lib/python311.zip:/usr/lib/python3.11:/usr/lib/python3.11/lib-dynload:/app/lib/python3.11/site-packages:/usr/lib/python3.11/site-packages:/usr/lib64/python312.zip:/usr/lib64/python3.12:/usr/lib64/python3.12/lib-dynload:/home/witaway/.local/lib/python3.12/site-packages:/usr/lib64/python3.12/site-packages:/usr/lib/python3.12/site-packages
